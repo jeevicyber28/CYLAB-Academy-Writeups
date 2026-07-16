@@ -1,7 +1,5 @@
-# Reverse Engineering
-
-This folder contains my Reverse Engineering challenges from CYLAB Academy.
-
 ## Challenges
 
-- Hidden Cipher 1
+- Hidden Cipher 1 ✅
+- Quantum Scrambler ✅
+- GDB baby step 2 ✅
