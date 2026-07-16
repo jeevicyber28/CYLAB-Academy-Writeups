@@ -21,11 +21,13 @@ This repository contains my learning notes, scripts, and writeups.
 Solve CYLAB Academy CTF challenges every day.
 ---
 
+---
+
 # 📊 Challenge Progress
 
 | Category | Solved |
 |----------|--------:|
-| Reverse Engineering | 3 |
+| Reverse Engineering | 8 |
 | Cryptography | 0 |
 | Web Exploitation | 0 |
 | Forensics | 0 |
@@ -34,4 +36,12 @@ Solve CYLAB Academy CTF challenges every day.
 
 ## 🎯 Total Challenges Solved
 
-**3**
+**8**
+
+---
+
+## Current Goal
+
+- Complete 50+ CYLAB Academy / picoCTF challenges
+- Improve Reverse Engineering skills
+- Build a professional cybersecurity GitHub portfolio
